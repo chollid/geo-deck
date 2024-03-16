@@ -1,0 +1,9 @@
+{
+  "name": "geo-front",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/geo-front/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project geo-front --web",
+  "targets": {}
+}
